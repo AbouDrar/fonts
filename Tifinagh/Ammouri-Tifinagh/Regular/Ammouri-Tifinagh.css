@@ -1,11 +1,11 @@
 @font-face {
 font-family: Ammouri-Tifinagh;
-src: url('https://aboudrar.github.io/fonts/Ammouri-Tifinagh/Ammouri-Tifinagh-Regular.eot');
-src: url('https://aboudrar.github.io/fonts/Ammouri-Tifinagh/Ammouri-Tifinagh-Regular.eot?#iefix') format('embedded-opentype'),
-url('https://aboudrar.github.io/fonts/Ammouri-Tifinagh/Ammouri-Tifinagh-Regular.woff2') format('woff2'),
-url('https://aboudrar.github.io/fonts/Ammouri-Tifinagh/Regular/Ammouri-Tifinagh-Regular.woff') format('woff'),
-url('https://aboudrar.github.io/fonts/Ammouri-Tifinagh/Regular/Ammouri-Tifinagh-Regular.ttf') format('truetype'),
-url('https://aboudrar.github.io/fonts/Ammouri-Tifinagh/Regular/Ammouri-Tifinagh-Regular.svg#Ammouri-Tifinagh-Regular') format('svg');
+src: url('https://fonts.abudrar.com/Ammouri-Tifinagh/Ammouri-Tifinagh-Regular.eot');
+src: url('https://fonts.abudrar.com/Ammouri-Tifinagh/Ammouri-Tifinagh-Regular.eot?#iefix') format('embedded-opentype'),
+url('https://fonts.abudrar.com/Ammouri-Tifinagh/Ammouri-Tifinagh-Regular.woff2') format('woff2'),
+url('https://fonts.abudrar.com/Ammouri-Tifinagh/Regular/Ammouri-Tifinagh-Regular.woff') format('woff'),
+url('https://fonts.abudrar.com/Ammouri-Tifinagh/Regular/Ammouri-Tifinagh-Regular.ttf') format('truetype'),
+url('https://fonts.abudrar.com/Ammouri-Tifinagh/Regular/Ammouri-Tifinagh-Regular.svg#Ammouri-Tifinagh-Regular') format('svg');
 font-weight: normal;
 font-style: normal;
 }
